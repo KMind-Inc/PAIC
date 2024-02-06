@@ -11,3 +11,19 @@ In this position paper, we introduce a concept of personal autonomous intelligen
 
 ## Architecture Design
 ![image](https://github.com/KMind-Inc/PAIC/blob/main/Materials/Architecture_diagram.pdf)
+
+## kOS:An Operating System for PAIC
+![image](Materials/kos_act.pdf)
+### Native ACT
+Coming Soon
+### System ACT
+Coming Soon
+### Customized ACT
+Coming Soon
+
+
+*Please cite our paper as below if you use our work.*
+```
+xxxxx
+```
+

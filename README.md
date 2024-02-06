@@ -22,8 +22,7 @@ Coming Soon
 Coming Soon
 
 
-*Please cite our paper as below if you use our work.*
+*If you utilize any aspect of our work, please ensure to reference the following paper.*
 ```
 xxxxx
 ```
-

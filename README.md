@@ -10,3 +10,4 @@ In this position paper, we introduce a concept of personal autonomous intelligen
 [Webpage Portal](https://hikos.cn/)
 
 ## Architecture Design
+![hello world](Materials/Architecture_diagram.pdf)

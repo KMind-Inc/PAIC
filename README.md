@@ -24,5 +24,11 @@ Coming Soon
 
 *If you utilize any aspect of our work, please ensure to reference the following paper.*
 ```
-xxxxx
+@article{PAIC,
+  title={Personal Autonomous Intelligence Computer},
+  author={Hanqing Wu, Zile Yang, Jiahuan Zhang, Dongbai Chen, Baoping Hao, Hao Zhang, Hongying Han, Wenlin Fu, Kaicheng Yu},
+  url={https://github.com/KMind-Inc/PAIC/blob/main/Main%20Paper/PAIC_Paper.pdf},
+  year={2024},
+  month={Feb}
+}
 ```
